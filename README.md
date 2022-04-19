@@ -13,4 +13,6 @@ I am studying full stack software development with Code Institute. I am working 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr>
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kinsea_&count=1)
