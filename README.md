@@ -4,6 +4,6 @@ I am studying full stack software development with Code Institute. I am working 
 
 - :computer: I'm currently working as a Merchant Support Advisor for Shopify
 - :school: I’ve just finished my 5th Portfolio Project with Code Institute
-- :thinking_face: Currently planning my next project
+- :thinking: Currently planning my next project
 
 
