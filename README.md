@@ -19,4 +19,4 @@ I'm studying full stack software development with Code Institute. Currently I'm 
 
 <hr>
 
-![Spotify recently played](https://open.spotify.com/user/kinsea_)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kinsea_&count=1)](https://open.spotify.com/user/kinsea_)
