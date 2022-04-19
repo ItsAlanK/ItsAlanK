@@ -5,6 +5,8 @@
 <img align='center' height='50%' src="https://emoji.slack-edge.com/T017D49VC3F/waveboi/a7052b3522fe38f5.gif">
 </div>
 
+Hi! My name is Alan. Thanks for stopping by
+
 I am studying full stack software development with Code Institute. I am working as a support advisor for Shopify from home in Wexford, Ireland
 
 - :computer: I'm currently working as a Merchant Support Advisor for Shopify
