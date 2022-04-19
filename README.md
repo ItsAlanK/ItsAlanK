@@ -1,7 +1,5 @@
 
-<div align='center'>
-Hello there. Welcome, make yourself at home ![](https://emoji.slack-edge.com/T017D49VC3F/waveboi/a7052b3522fe38f5.gif)
-</div>
+<h1 align='center'>Hello there. Welcome, make yourself at home</h1> ![](https://emoji.slack-edge.com/T017D49VC3F/waveboi/a7052b3522fe38f5.gif)
 
 I am studying full stack software development with Code Institute. I am working as a support advisor for Shopify from home in Wexford, Ireland
 
