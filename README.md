@@ -1,5 +1,5 @@
 
-<div style="text-align: center;">
+<div align='center'>
 Hello there. Welcome, make yourself at home ![](https://emoji.slack-edge.com/T017D49VC3F/waveboi/a7052b3522fe38f5.gif)
 </div>
 
