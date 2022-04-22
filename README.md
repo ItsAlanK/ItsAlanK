@@ -5,13 +5,13 @@
 <img align='center' height='50%' src="https://emoji.slack-edge.com/T017D49VC3F/waveboi/a7052b3522fe38f5.gif">
 </div>
 
-## Hi! My name is Alan. Thanks for stopping by
+## Hi! My name's Alan. Thanks for stopping by
 
 I'm studying full stack software development with Code Institute. Currently I'm working as a support advisor for Shopify.
 
 - :computer: I'm currently working as a Merchant Support Advisor for Shopify
 - :school: I’ve just finished my 5th Portfolio Project with Code Institute
-- :thinking: Currently planning my next project
+- :thinking: Currently planning my next project (I'll make a portfolio site one day)
 
 <hr>
 
