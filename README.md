@@ -1,9 +1,8 @@
+<div align='center'>
+<img align='center' width="250" height="250" src="https://media2.giphy.com/media/0ucORhjYFRwmZjdx1Q/giphy.gif?cid=790b7611f020d4d3b04a3a71019ca00e663daa8c26c580c5&rid=giphy.gif&ct=g">
+</div>
 
 <h1 align='center'>Hello there. Welcome, make yourself at home!</h1> 
-
-<div align='center'>
-<img align='center' height='50%' src="https://emoji.slack-edge.com/T017D49VC3F/waveboi/a7052b3522fe38f5.gif">
-</div>
 
 ## Hi! My name's Alan. Thanks for stopping by
 
