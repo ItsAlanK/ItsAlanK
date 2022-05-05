@@ -1,5 +1,5 @@
 <div align='center'>
-<img align='center' width="250" height="250" src="https://media2.giphy.com/media/0ucORhjYFRwmZjdx1Q/giphy.gif?cid=790b7611f020d4d3b04a3a71019ca00e663daa8c26c580c5&rid=giphy.gif&ct=g">
+<img align='center' src="https://media2.giphy.com/media/ubNaM4azCUBzFw6ZLl/giphy.gif?cid=790b7611a4e388e755898084a34442914edc683d365c9ab8&rid=giphy.gif&ct=g">
 </div>
 
 <h1 align='center'>Hello there. Welcome, make yourself at home!</h1> 
