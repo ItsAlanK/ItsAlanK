@@ -4,7 +4,7 @@
 
 <h1 align='center'>Hello there. Welcome, make yourself at home!</h1> 
 
-## Hi! My name's Alan. Thanks for stopping by
+## My name's Alan. Thanks for stopping by
 
 I'm studying full stack software development with Code Institute. Currently I'm working as a support advisor for Shopify.
 
