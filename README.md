@@ -6,7 +6,7 @@
 
 ## My name's Alan. Thanks for stopping by
 
-I'm studying full stack software development with Code Institute. Currently I'm working as a support advisor for Shopify.
+I'm studying full stack software development with Code Institute. Currently working as a support advisor for Shopify.
 
 - :computer: I'm currently working as a Merchant Support Advisor for Shopify
 - :school: I’ve just finished my 5th Portfolio Project with Code Institute
