@@ -9,8 +9,8 @@
 I'm studying full stack software development with Code Institute. Currently working as a support advisor for Shopify.
 
 - :computer: I'm currently working as a Merchant Support Advisor for Shopify
-- :school: I’ve just finished my 5th Portfolio Project with Code Institute
-- :thinking: Currently planning my next project (I'll make a portfolio site one day)
+- :school: Graduated from Code Institue in May 2022
+- :thinking: Finally starting to work on my portfolio site with React
 
 <hr>
 
@@ -23,12 +23,13 @@ I'm studying full stack software development with Code Institute. Currently work
   
   <h3>🗄️: Libs and Frameworks :</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   
   <h3>:hammer_and_wrench: Tools :</h3>
+  <img src="https://www.svgrepo.com/show/331577/shopify.svg" title="Shopify" alt="Shopify" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" title="Premiere" alt="Premiere" width="40" height="40"/>&nbsp;
