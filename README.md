@@ -10,7 +10,7 @@ I'm studying full stack software development with Code Institute. Currently work
 
 - :computer: I'm currently working as a Merchant Support Advisor for Shopify
 - :school: Graduated from Code Institue in May 2022
-- :thinking: Finally starting to work on my portfolio site with React
+- :thinking: Currently working on a [**React based Portfolio Site**](https://github.com/ItsAlanK/portfolio-site)
 
 <hr>
 
