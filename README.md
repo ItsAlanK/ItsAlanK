@@ -37,6 +37,7 @@ I'm studying full stack software development with Code Institute. Currently work
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://cdn.freebiesupply.com/images/large/2x/stripe-logo-white-on-blue.png" title="Stripe" alt="Stripe" width="40" height="40"/>&nbsp;
 </div>
 
 <hr>
