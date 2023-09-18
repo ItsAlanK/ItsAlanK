@@ -6,10 +6,8 @@
 
 ## My name's Alan. Thanks for stopping by
 
-I'm studying full stack software development with Code Institute. Currently working as a support advisor for Shopify.
-
-- :computer: I'm currently working as a Merchant Support Advisor for Shopify
-- :school: Graduated from Code Institue in May 2022
+- :computer: I'm currently working as a Partner Support Specialist for Shopify
+- :school: Graduated from Code Institue in May 2022. Starting MSc in Computing in Games and Extended Reality Sept. 2023
 - :thinking: Currently working on a [**React based Portfolio Site**](https://github.com/ItsAlanK/portfolio-site)
 
 <hr>
