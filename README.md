@@ -7,7 +7,7 @@
 ## My name's Alan. Thanks for stopping by
 
 - :computer: I'm currently working as a Partner Support Specialist for Shopify
-- :school: Graduated from Code Institue in May 2022. Starting MSc in Computing in Games and Extended Reality Sept. 2023
+- :school: Starting MSc in Computing in Games and Extended Reality Sept. 2023
 - :thinking: Currently working on a [**React based Portfolio Site**](https://github.com/ItsAlanK/portfolio-site)
 
 <hr>
