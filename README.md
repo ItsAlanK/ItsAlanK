@@ -7,8 +7,8 @@
 ## My name's Alan. Thanks for stopping by
 
 - :computer: I'm currently working as a Partner Support Specialist for Shopify
-- :school: Starting MSc in Computing in Games and Extended Reality Sept. 2023
-- :thinking: Currently working on a [**React based Portfolio Site**](https://github.com/ItsAlanK/portfolio-site)
+- :school: Currently completing an MSc in Computing in Games and Extended Reality.
+- :thinking: Currently working on a myself ✨
 
 <hr>
 
