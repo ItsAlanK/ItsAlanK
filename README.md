@@ -8,7 +8,7 @@
 
 - :computer: Currently working as a Partner Support Specialist for Shopify
 - :school: Currently studying an MSc in Computing in Games and Extended Reality.
-- :thinking: Currently working on learning Godot
+- :thinking: Currently working on a 3D platformer "I'm Anita"
 
 Check out some of my other projects on **[my website](https://itsalank.com/)**
 
