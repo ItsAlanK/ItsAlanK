@@ -6,7 +6,7 @@
 
 ## My name's Alan. Thanks for stopping by
 
-- :computer: Currently working as a Partner Support Specialist for Shopify
+- :computer: Currently working as a Developer Support Specialist for Shopify
 - :school: Currently studying an MSc in Computing in Games and Extended Reality.
 - :thinking: Currently working on a 3D platformer "I'm Anita"
 
