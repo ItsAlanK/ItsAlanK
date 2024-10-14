@@ -10,7 +10,7 @@
 - :school: Currently studying an MSc in Computing in Games and Extended Reality.
 - :thinking: Currently working on a 3D platformer "I'm Anita"
 
-Check out some of my other projects on **[my website](https://itsalank.com/)**
+Check out what I'm up to on **[my website](https://itsalank.com/)**
 
 <hr>
 
