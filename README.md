@@ -8,9 +8,9 @@
 ## 💡 About Me
 
 - 🧠 Developer Support Specialist at **Shopify**
-- 🎮 MSc student in **Games & Extended Reality**
-- 🧩 Building a 3D platformer called **"I'm Anita"**
-- 🌐 I have a devlog for my game here: [itsalank.com](https://itsalank.com)
+- 🎮 MSc in **Computing in Games & Extended Reality**
+- 🧩 Building a React/TS portfolio site to learn Typescript & React
+- 🌐 You can see my current site here where I have a devlog from my MSc Thesis Project [I'm Anita](https://github.com/itsalank/anitadev): [itsalank.com](https://itsalank.com)
 
 
 <hr>
