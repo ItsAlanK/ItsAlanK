@@ -1,8 +1,8 @@
 <div align='center'>
-<img align='center' src="https://media2.giphy.com/media/ubNaM4azCUBzFw6ZLl/giphy.gif?cid=790b7611a4e388e755898084a34442914edc683d365c9ab8&rid=giphy.gif&ct=g">
+<h1 style="color:red;">~/itsalank</h1>
 </div>
 
-<h1 align="center">👋 Hi, I’m Alan</h1>
+<h1 align="center">🐸 Hi, I’m Alan</h1>
 <p align="center"><em>Welcome — make yourself at home.</em></p>
 
 ## 💡 About Me
